@@ -1,0 +1,242 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Best Selling Products\n"
+"POT-Creation-Date: 2020-07-26 23:34+0530\n"
+"PO-Revision-Date: 2020-07-26 23:34+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_attr;esc_attr__;"
+"esc_attr_e;esc_html\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/view.settings.php:3
+msgid "Best Seller In {categories}"
+msgstr ""
+
+#: inc/view.settings.php:5 inc/view.settings.php:7 inc/view.settings.php:9
+#: woocommerce-best-selling-products.php:676
+msgid "Best Seller"
+msgstr ""
+
+#: inc/view.settings.php:29
+msgid "#{rank} Best Seller"
+msgstr ""
+
+#: inc/view.settings.php:33
+msgid "Best Seller In {category}"
+msgstr ""
+
+#: inc/view.settings.php:35
+msgid "Best Sellers In {category}"
+msgstr ""
+
+#: inc/view.settings.php:44
+msgid "WooCommerce Best Selling Products"
+msgstr ""
+
+#: inc/view.settings.php:52
+msgid "Plugin settings were saved successfully."
+msgstr ""
+
+#: inc/view.settings.php:60
+msgid "Badge Global Settings"
+msgstr ""
+
+#: inc/view.settings.php:65
+msgid "Badge Background Color"
+msgstr ""
+
+#: inc/view.settings.php:68
+msgid "Choose background color for badge."
+msgstr ""
+
+#: inc/view.settings.php:73
+msgid "Badge Text Color"
+msgstr ""
+
+#: inc/view.settings.php:76
+msgid "Choose text color for badge."
+msgstr ""
+
+#: inc/view.settings.php:81
+msgid "Badge Design"
+msgstr ""
+
+#: inc/view.settings.php:109
+msgid "Shop Page Settings"
+msgstr ""
+
+#: inc/view.settings.php:118
+msgid ""
+"Display best seller badge on the product image of best selling products of "
+"different categories on the shop page."
+msgstr ""
+
+#: inc/view.settings.php:124
+msgid "Badge Text For Best Seller's Product Image"
+msgstr ""
+
+#: inc/view.settings.php:127
+msgid ""
+"Enter text to display on the badge of best selling products of different "
+"categories on the shop page. You an use {categories} to display categories."
+msgstr ""
+
+#: inc/view.settings.php:133
+msgid "Product Details Page Settings"
+msgstr ""
+
+#: inc/view.settings.php:142
+msgid ""
+"Display best seller badge on the product image of best selling product on "
+"the product details page."
+msgstr ""
+
+#: inc/view.settings.php:148
+msgid "Badge Text On Product Image"
+msgstr ""
+
+#: inc/view.settings.php:151
+msgid ""
+"Enter badge text that will appear on the product image of best selling "
+"product's detail page."
+msgstr ""
+
+#: inc/view.settings.php:160
+msgid ""
+"Display special best selling badge with category name just before product "
+"price."
+msgstr ""
+
+#: inc/view.settings.php:166
+msgid "Text For Best Seller Special Badge"
+msgstr ""
+
+#: inc/view.settings.php:169
+msgid ""
+"Enter text for special badge that appears before product price. In "
+"{category} text will be automatically appended after your text."
+msgstr ""
+
+#: inc/view.settings.php:178
+msgid ""
+"Display best seller products of same category on product's detail page after "
+"product description."
+msgstr ""
+
+#: inc/view.settings.php:185
+msgid "No Of Best Selling Products To Display"
+msgstr ""
+
+#: inc/view.settings.php:188
+msgid ""
+"Enter number of best selling products to display on product details page "
+"after product description in the \"Best Seller\" section."
+msgstr ""
+
+#: inc/view.settings.php:193
+msgid "Best Seller Section Heading"
+msgstr ""
+
+#: inc/view.settings.php:196
+msgid ""
+"Enter heading for best seller section that will appear on product details "
+"page after page description. {category} placehoder can be used here."
+msgstr ""
+
+#: inc/view.settings.php:201
+msgid "Badge Text For Remaining Best Selling Products"
+msgstr ""
+
+#: inc/view.settings.php:204
+msgid ""
+"Enter badge text for best selling products that will appear on product "
+"details page under \"Best Seller Section\" {rank} placeholder can be used "
+"inside text to display rank."
+msgstr ""
+
+#: inc/view.settings.php:210
+msgid "Category Archive Page Settings"
+msgstr ""
+
+#: inc/view.settings.php:219
+msgid ""
+"Display best seller badge on product image on product category archive page."
+msgstr ""
+
+#: inc/view.settings.php:225
+msgid "Badge Text On Category Archive"
+msgstr ""
+
+#: inc/view.settings.php:228
+msgid ""
+"Enter badge text for best selling product's image on category archive page."
+msgstr ""
+
+#: inc/view.settings.php:234
+msgid "Additional Settings"
+msgstr ""
+
+#: inc/view.settings.php:239
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/view.settings.php:241
+msgid "Enter custom css for frontend."
+msgstr ""
+
+#: inc/view.settings.php:249
+msgid "Save Settings"
+msgstr ""
+
+#: woocommerce-best-selling-products.php:118
+#: woocommerce-best-selling-products.php:140
+msgid "Choose Best Seller Badge Color"
+msgstr ""
+
+#: woocommerce-best-selling-products.php:121
+msgid "Please choose best selling badge color for product of this category."
+msgstr ""
+
+#: woocommerce-best-selling-products.php:125
+#: woocommerce-best-selling-products.php:146
+msgid "Choose Best Seller Badge Text Color"
+msgstr ""
+
+#: woocommerce-best-selling-products.php:128
+msgid ""
+"Please choose best selling badge text color for product of this category."
+msgstr ""
+
+#: woocommerce-best-selling-products.php:142
+msgid ""
+"Please choose the badge color for best selling product of this category."
+msgstr ""
+
+#: woocommerce-best-selling-products.php:148
+msgid ""
+"Please choose the badge text color for the best selling product of this "
+"category."
+msgstr ""
+
+#: woocommerce-best-selling-products.php:538
+#: woocommerce-best-selling-products.php:539
+msgid "WooCommerce Best Selling Product"
+msgstr ""
+
+#: woocommerce-best-selling-products.php:684
+msgid ""
+"WooCommerce is required for Woocommerce Best Selling Products plugin to "
+"work. Please install and configure latest WooCommerce plugin first."
+msgstr ""
+
+#: woocommerce-best-selling-products.php:693
+msgid "Best Seller, wcbsp-best-selling-products"
+msgstr ""
