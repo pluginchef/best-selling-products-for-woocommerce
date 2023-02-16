@@ -112,12 +112,6 @@ $wcbsp_custom_css = (isset($this->dbSettings['wcbsp_custom_css']) && !empty($thi
 	</div>
   </div>
   
-  <div class="form-group row">
-	<label for="wcbsp_custom_css" class="col-md-3 col-form-label"><?php esc_html_e('Custom CSS','wcbsp-best-selling-products'); ?></label>
-	<div class="col-md-6">
-	  <textarea name="wcbsp_custom_css" id="wcbsp_custom_css" rows="5"><?php echo esc_attr( $wcbsp_custom_css ); ?></textarea> <p><?php esc_html_e('Enter custom css for frontend.','wcbsp-best-selling-products'); ?></p>
-	</div>
-  </div>
   <!-- Nonce creation within form -->
   <?php wp_nonce_field( 'update_settings_process', 'wcbsp_nonce' ); ?>
   

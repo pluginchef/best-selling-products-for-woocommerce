@@ -432,10 +432,6 @@ if(!class_exists('WCBSP_Best_Selling_Products')){
 			   if(!empty($this->dbSettings['badge_text_color'])){
 				 $common .= '.bsbtext,.notify-badge{color:'.esc_html($this->dbSettings['badge_text_color']).';}';	
 			   }
-			   if(isset($this->dbSettings['wcbsp_custom_css']) && !empty($this->dbSettings['wcbsp_custom_css'])){
-		    	 $custom_css = esc_html($this->dbSettings['wcbsp_custom_css']);
-			   }
-			   
 			   $style = '<style>'.$custom_css.$common.'</style>';
 			   echo wp_kses( $style, array('style' => array()) ); 
 			   

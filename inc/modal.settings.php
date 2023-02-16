@@ -70,8 +70,6 @@ if(!class_exists('WCBSP_Plugin_Settings')){
 					$plugin_settings['best_seller_text_rankwise'] = sanitize_textarea_field($_POST['best_seller_text_rankwise']);
 					if(isset($_POST['same_category_best_sellers_heading']))
 					$plugin_settings['same_category_best_sellers_heading'] = sanitize_textarea_field($_POST['same_category_best_sellers_heading']);
-					if(isset($_POST['wcbsp_custom_css']))
-					$plugin_settings['wcbsp_custom_css'] = sanitize_textarea_field($_POST['wcbsp_custom_css']);	
 					update_option('wcbsp_plugin_settings',$plugin_settings);
 					return true;				  
 				   	
